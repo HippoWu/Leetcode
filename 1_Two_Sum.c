@@ -36,7 +36,6 @@ int* twoSum(int* nums, int numsSize, int target) {
         }
     }
     
-    
     if (found)
     {    
         result_idx[0] = counter1;
